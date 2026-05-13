@@ -1,11 +1,23 @@
-<div align="center">
+# KidZone: Adventure & Care
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+A dual-path game for kids with animal care and action-packed destruction, featuring a simulated in-app purchase system.
 
-  <h1>Built with AI Studio</h2>
+## 🛡️ Legal Information
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+This application is **proprietary software**. It is protected under:
+- The **Copyright and Neighbouring Rights Act, 2006** (Republic of Uganda).
+- The **Berne Convention for the Protection of Literary and Artistic Works**.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+### Restrictions
+Unauthorized distribution, modification, or commercial use of this software is strictly prohibited. All rights are reserved by the owner, Sam Agaba.
 
-</div>
+For full terms, please refer to the [LICENSE](./LICENSE) file.
+
+## 🚀 Features
+- **Girl Side**: Grow flowers and care for cute animals.
+- **Boy Side**: Action-packed destruction with customizable weapons.
+- **Simulated IAP**: Experience in-app purchases in a safe, simulated environment.
+- **Mega Store**: Unlock items using in-game KidCoins.
+
+## ⚖️ Jurisdiction
+Any legal matters pertaining to this software are governed by Ugandan law, with exclusive jurisdiction in Kampala.
